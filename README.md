@@ -6,10 +6,14 @@ Sou muito curiosa, então gosto de entender como sistemas funcionam por baixo do
 
 ## ⋆｡°✩ o que eu faço por aqui?
 
-🎮 Programo jogos com **Unity & Unreal** 
+🎮 Programo jogos com **Unity & Unreal**
+
 🔐 Estudo **cybersecurity**, principalmente quando ela envolve os jogos 
+
 🧪 Crio labs de **game security, pentest e vulnerabilidades**  
+
 ⚙️ Também me aventuro por **APIs, backend e bancos de dados**  
+
 🔍 Com certo hábito de querer descobrir como as coisas quebram
 
 ### ⋆˚࿔ 🎮 Game Dev 𝜗𝜚˚⋆
