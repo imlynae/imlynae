@@ -4,10 +4,14 @@ Sou estudante de **Jogos Digitais na PUCPR** voltada para a programação e estu
 
 Sou muito curiosa, então gosto de entender como sistemas funcionam por baixo dos panos, seja construindo jogos ou descobrindo como eles podem ser quebrados. Por aqui, você vai encontrar **jogos, estudos de cyber e labs de Game Security**.
 
-## Tech Stack
+### 🎮 Game Dev
+<p>
+  <img src="https://skillicons.dev/icons?i=unity,unreal,cs,cpp" />
+</p>
 
-<p> <img src="https://skillicons.dev/icons?i=unity,cs,java,python,django,docker,postgres,linux,git" /> </p>
+### 🔐 Cyber & Dev
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,linux,kali,docker,postgres,git" />
+</p>
 
-## GitHub
-
-<p> <img height="160" src="https://github-readme-stats.vercel.app/api?username=imlynae&show_icons=true&theme=midnight-purple&hide_border=true" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imlynae&layout=compact&theme=midnight-purple&hide_border=true" /> </p>
+`Game Security` • `Pentest` • `OWASP Top 10` • `APIs` • `Reverse Engineering`
