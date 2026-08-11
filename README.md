@@ -1,16 +1,13 @@
-## Hi there 👋
+# Oi, eu sou a Letícia! 👾
 
-<!--
-**imlynae/imlynae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Jogos Digitais na PUCPR** voltada para a programação, desenvolvedora e estudo muito **Cybersecurity**, com foco em **Game Security**. 
 
-Here are some ideas to get you started:
+Sou muito curiosa, então gosto de entender como sistemas funcionam por baixo dos panos, seja construindo jogos ou descobrindo como eles podem ser quebrados. Por aqui, você vai encontrar **jogos, estudos de cyber e labs de Game Security**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+<p> <img src="https://skillicons.dev/icons?i=unity,cs,java,python,django,docker,postgres,linux,git" /> </p>
+
+## GitHub
+
+<p> <img height="160" src="https://github-readme-stats.vercel.app/api?username=imlynae&show_icons=true&theme=midnight-purple&hide_border=true" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imlynae&layout=compact&theme=midnight-purple&hide_border=true" /> </p>
